@@ -1,0 +1,10 @@
+.admin {
+  & ul {
+    list-style: disk;
+    .link {
+      color: black;
+      font-size: 1.5rem;
+      font-family: "Catamaran", Sans-Serif !important;
+    }
+  }
+}
